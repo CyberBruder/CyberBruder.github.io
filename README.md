@@ -87,7 +87,7 @@ A seção existe para explorar visualmente conceitos relacionados a monitorament
 O projeto adota uma arquitetura limpa sem frameworks pesados no front-end, priorizando performance, semântica e carregamento veloz.
 
 ```text
-justbruder.github.io/
+cyberbruder.github.io/
 │
 ├── index.html
 ├── assets/
@@ -125,7 +125,7 @@ Diferente de abordagens puramente automatizadas, este repositório é fruto de u
 
 ---
 
-## 🔗 **[Clique para ver o meu portfólio!](https://justbruder.github.io/)**
+## 🔗 **[Clique para ver o meu portfólio!](https://cyberbruder.github.io/)**
 
 <div align="center">
 
