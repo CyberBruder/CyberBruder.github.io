@@ -1,4 +1,22 @@
 const PROJECTS = [
+    {
+    title: 'ADAP Receipt Verify: verificador independente em Python',
+    category: 'Segurança & Criptografia',
+    date: '2026/11',
+    summary: 'Verificador em Python de recibos de autorização do spec open-source ADAP, feito só a partir do spec público para testar se ele é preciso o bastante para uma segunda implementação chegar aos mesmos resultados.',
+    demo: '',
+    github: 'https://github.com/JustBruder/adap-receipt-verify-py',
+    tags: ['Python', 'Ed25519', 'RFC 8785', 'pytest'],
+    details: [
+      'Projeto independente, sem vínculo com a Hardalion e sem copiar código da implementação de referência.',
+      'Canonicalização RFC 8785 (JCS) escrita do zero, com formatação de números do ECMAScript e ordenação de chaves por UTF-16.',
+      'Verificação do contentHash, da assinatura Ed25519 e da cadeia de recibos. Sem chave pública, o recibo nunca é dado como válido.',
+      'Detecção de cauda e cabeça removidas na cadeia (expected_head e first_sequence), algo que o verificador de referência não faz.',
+      '28 testes, incluindo teste diferencial contra o JSON.stringify do Node, e CI no GitHub Actions.',
+      'Achados reportados ao mantenedor: bug de ordenação de chaves numéricas (issue #3, corrigido no PR #12) e divergência do checker Python do PR em inteiros acima de 2^53.',
+      'Limite: testado com recibo de demonstração e recibos gerados pelos testes, só com as checagens criptográficas, sem validação estrutural completa.'
+    ]
+  },
   {
     title: 'Landing page Apoia.se',
     category: 'Hackathon SouJunior · 3º lugar',
