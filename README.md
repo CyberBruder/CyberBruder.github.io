@@ -129,7 +129,7 @@ Diferente de abordagens puramente automatizadas, este repositório é fruto de u
 
 <div align="center">
 
-### 📱 Contate-me / Let's Connect
+### 💻 Contate-me / Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
@@ -138,14 +138,20 @@ Diferente de abordagens puramente automatizadas, este repositório é fruto de u
   <a href="mailto:ibruder83@gmail.com">
     <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/Cyber.Bruder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@Cyber.Bruder" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-C71585?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
-</div>
 
 <div align="center">
-  <sub>Desenvolvido por JustBruder 💖</sub>
+  <sub>Desenvolvido por Bruder ✨</sub>
 </div>
 <div align="center">
-  <sub>🌷 Security by Design </sub>
+  <sub>🌷🐱 Código limpo e MEOW </sub>
 </div>
+
 
 
