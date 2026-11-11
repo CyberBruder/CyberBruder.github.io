@@ -2,6 +2,12 @@
 
   # ✨ Portfólio Web Interativo — Back-end & DevSecOps ✨
 
+  <div align="right">
+  <a href="README.EN.md">🇺🇸 Read in English</a>
+</div>
+
+<hr />
+
   <p align="center">
     <strong>Portfólio pessoal desenvolvido para apresentar minha trajetória, projetos e atuação técnica em Desenvolvimento Back-end, DevSecOps e Cibersegurança.</strong>
   </p>
