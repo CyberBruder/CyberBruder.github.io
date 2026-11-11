@@ -107,7 +107,7 @@ This section exists to visually explore concepts related to monitoring and secur
 The project adopts a clean architecture without heavy front-end frameworks, prioritizing performance, semantics, and fast loading.
 
 ```text
-justbruder.github.io/
+cyberbruder.github.io/
 │
 ├── index.html
 ├── assets/
@@ -153,7 +153,7 @@ Unlike purely automated approaches, this repository is the result of a predomina
 
 ---
 
-## 🔗 **[Click to view my portfolio!](https://justbruder.github.io/)**
+## 🔗 **[Click to view my portfolio!](https://cyberbruder.github.io/)**
 
 <div align="center">
 
