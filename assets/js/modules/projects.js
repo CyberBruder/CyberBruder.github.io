@@ -1,5 +1,5 @@
 const PROJECTS = [
-    {
+  {
     title: 'ADAP Receipt Verify: verificador independente em Python',
     category: 'Segurança & Criptografia',
     date: '2026/11',
