@@ -120,3 +120,58 @@ justbruder.github.io/
 │   │   └── main.js
 │   └── images/
 └── README.md
+```
+
+## Development: Human Authorship vs. AI Support
+
+Unlike purely automated approaches, this repository is the result of a predominantly human process, in which Artificial Intelligence acted strictly as a supporting assistant for time optimization.
+
+## What was done by me (Human Engineering and Implementation)
+
+- Architecture & Structuring: Decision and organization of the modular file structure (CSS variables, layout files, and separate components).
+
+- Interaction Logic (Canvas): Original development of the interactive particle effect (glitter) on the mouse cursor, with logic structured from the base of the interactive map.
+
+- Content & Curation: Full writing of experiences, synthesis of technical trajectory, and definition of the presented professional vision.
+
+- Code Logic and Refactoring:
+
+- Manual CSS adjustments to ensure contrast, smooth transitions, color palette, and correct responsive adaptation for mobile devices.
+
+- Layout bug fixes and layer overlap handling (z-index).
+
+- Adjustments to HTML5 semantics and accessibility.
+
+
+  ## What was assisted by Generative AI
+- Boilerplate and Base Logic: Generation of initial HTML/CSS structures and logical drafts of the Canvas API (which served as a foundation for me to develop and refine the final interactive effects, such as the map and glitter).
+
+- Troubleshooting and Refactoring: Acting as an interactive "Rubber Duck" to debug layout issues (CSS, z-index, responsiveness) and optimize JavaScript snippets.
+
+- Copywriting and Proofreading: Support in professional structuring, polishing, and clarity of the portfolio's descriptive texts, ensuring assertive technical communication (including the formatting of this README itself).
+
+
+---
+
+## 🔗 **[Click to view my portfolio!](https://justbruder.github.io/)**
+
+<div align="center">
+
+### 📱 Contate-me / Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibruder83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <sub>Desenvolvido por JustBruder 💖</sub>
+</div>
+<div align="center">
+  <sub>🌷 Security by Design </sub>
+</div>
