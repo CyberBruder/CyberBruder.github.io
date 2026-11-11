@@ -5,7 +5,7 @@ const PROJECTS = [
     date: '2026/11',
     summary: 'Verificador em Python de recibos de autorização do spec open-source ADAP, feito só a partir do spec público para testar se ele é preciso o bastante para uma segunda implementação chegar aos mesmos resultados.',
     demo: '',
-    github: 'https://github.com/JustBruder/adap-receipt-verify-py',
+    github: 'https://github.com/CyberBruder/adap-receipt-verify-py',
     tags: ['Python', 'Ed25519', 'RFC 8785', 'pytest'],
     details: [
       'Projeto independente, sem vínculo com a Hardalion e sem copiar código da implementação de referência.',
@@ -37,7 +37,7 @@ const PROJECTS = [
     date: '2026/08 - 2026/09',
     summary: 'Sistema em Java para controle de insumos e vendas. Foco em arquitetura limpa, análise SonarQube e autenticação JWT stateless.',
     demo: 'https://conferindoestoque.vercel.app/',
-    github: 'https://github.com/JustBruder/gestor-de-estoque',
+    github: 'https://github.com/CyberBruder/gestor-de-estoque',
     tags: ['Java', 'JWT', 'SonarQube'],
     details: [
       'Abatimento automático proporcional de insumos no estoque a cada venda realizada.',
@@ -51,7 +51,7 @@ const PROJECTS = [
     date: '2026/07',
     summary: 'Servidor HTTP nativo em Java sem frameworks rodando em Linux Mint, criado do zero para entender na prática a conteinerização e a automação de publicação com segurança.',
     demo: '',
-    github: 'https://github.com/JustBruder/java-docker-cicd',
+    github: 'https://github.com/CyberBruder/java-docker-cicd',
     tags: ['Java Native', 'Docker', 'GitHub Actions', 'Secrets'],
     details: [
       'Construção de um servidor web nativo em Java puro, sem frameworks ou dependências externas, para ter controle total da aplicação.',
@@ -66,7 +66,7 @@ const PROJECTS = [
     date: '2025/09',
     summary: 'Sistema em Java para gerenciamento automatizado de eventos, focado na aplicação prática de Orientação a Objetos, consultas SQL e tratamento rigoroso de exceções.',
     demo: '',
-    github: 'https://github.com/JustBruder/Servi-o-de-Atendimento',
+    github: 'https://github.com/CyberBruder/Servi-o-de-Atendimento',
     tags: ['Java POO', 'SQL', 'CRUD', 'Tratamento de Exceções'],
     details: [
       'Modelagem de domínio em Java aplicando os pilares da Orientação a Objetos para isolamento de responsabilidades.',
